@@ -25,5 +25,5 @@ Are heavily subscribed IPOs more underpriced, and do market conditions (India VI
 Python, pandas (groupby, qcut, correlation analysis), Jupyter Notebook
 
 ## Files
-- `ipo_underpricing_analysis.ipynb` - the full analysis
-- `IPO_Underpricing_Final.csv` - the dataset
+- [ipo_underpricing_analysis.ipynb](ipo_underpricing_analysis.ipynb) - the full analysis
+- [IPO_Underpricing_Final.csv](IPO_Underpricing_Final.csv) - the dataset
