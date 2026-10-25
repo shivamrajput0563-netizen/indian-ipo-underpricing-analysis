@@ -1,4 +1,4 @@
-# Indian IPO Underpricing Analysis (pandas + SQL)
+# Indian IPO Underpricing Analysis (pandas + SQL + Power BI)
 
 An exploratory analysis of 509 Indian IPOs (January 2010 to August 2025) to find out which factors are linked to a high listing gain. The same dataset is analysed twice: in Python (pandas) and in MySQL.
 
