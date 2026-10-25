@@ -45,6 +45,8 @@ Python, pandas, Jupyter Notebook, MySQL, SQLAlchemy
 
 - ## Part 3: Power BI dashboard
 <img width="719" height="416" alt="dashboard_details png" src="https://github.com/user-attachments/assets/36fd4d64-22c1-42f4-84f3-5a355c8f93c0" />
+<img width="722" height="414" alt="dashboard_overview png" src="https://github.com/user-attachments/assets/09997d06-fd48-43e5-bfa3-28805085203a" />
+
 
 
 Median underpricing by subscription tier (cutoffs: under 3x, 3x to 30x, over 30x): 0.0%, 4.5% and 30.6%. The pandas and SQL parts use tercile cutoffs (2.98x and 30.63x), which give slightly different medians (0%, 4.3% and 31.2%). The pattern is the same either way: heavily subscribed IPOs are underpriced far more.
