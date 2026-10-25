@@ -44,8 +44,9 @@ Python, pandas, Jupyter Notebook, MySQL, SQLAlchemy
 - [ipo_clean.csv](ipo_clean.csv) - cleaned file used for the MySQL table
 
 - ## Part 3: Power BI dashboard
+- <img width="722" height="414" alt="dashboard_overview png" src="https://github.com/user-attachments/assets/09997d06-fd48-43e5-bfa3-28805085203a" />
+
 <img width="719" height="416" alt="dashboard_details png" src="https://github.com/user-attachments/assets/36fd4d64-22c1-42f4-84f3-5a355c8f93c0" />
-<img width="722" height="414" alt="dashboard_overview png" src="https://github.com/user-attachments/assets/09997d06-fd48-43e5-bfa3-28805085203a" />
 
 
 
